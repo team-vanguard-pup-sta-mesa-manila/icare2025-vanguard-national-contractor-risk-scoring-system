@@ -70,7 +70,7 @@ Act as compliance partners and integrity advocates. They help contractors unders
 
 ## **Technology Stack**
 
-The development of the policy hackathon prototype leveraged a streamlined and accessible technology stack to ensure functionality, transparency, and user engagement. The front-end interface was implemented using HTML and was hosted and executed via OneCompiler, a web-based integrated development environment that allowed rapid prototyping and testing without dependency on complex server setups. This approach facilitated ease of access for users and rapid iteration during the hackathon process. <br>
+The development of the prototype leveraged a streamlined and accessible technology stack to ensure functionality, transparency, and user engagement. The front-end interface was implemented using HTML and was hosted and executed via OneCompiler, a web-based integrated development environment that allowed rapid prototyping and testing without dependency on complex server setups. This approach facilitated ease of access for users and rapid iteration during the hackathon process. <br>
 
 The platform integrates multiple functional modules designed to provide actionable insights and support informed decision-making regarding contractor risk management: <br>
 
@@ -81,7 +81,9 @@ The platform integrates multiple functional modules designed to provide actionab
 5. *Risk Indicator Breakdown (The Five Components)* – A structured presentation of the five risk components used in evaluating contractors, enabling stakeholders to identify specific areas of concern.
 6. *Public Feedback and Discrepancy Reporting* – A participatory feature allowing users to submit observations, corrections, or feedback, fostering transparency and continuous improvement of the system.
 
-This technology stack prioritizes accessibility, clarity, and responsiveness, ensuring that both technical and non-technical stakeholders can navigate the platform effectively and derive meaningful insights to guide policy decisions.
+This technology stack prioritizes accessibility, clarity, and responsiveness, ensuring that both technical and non-technical stakeholders can navigate the platform effectively and derive meaningful insights to guide policy decisions. <br>
+
+![Search Bar for Verifying Risk of Contractors, How NCRSS Works, and Why This Matters to You](Figure2.png)
 
 ## **Methodolgy**
 
