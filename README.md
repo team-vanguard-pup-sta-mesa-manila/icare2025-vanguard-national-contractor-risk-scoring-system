@@ -83,7 +83,7 @@ The platform integrates multiple functional modules designed to provide actionab
 
 This technology stack prioritizes accessibility, clarity, and responsiveness, ensuring that both technical and non-technical stakeholders can navigate the platform effectively and derive meaningful insights to guide policy decisions. <br>
 
-![Search Bar for Verifying Risk of Contractors, How NCRSS Works, and Why This Matters to You](Figure2.png)
+![Search Bar for Verifying Risk of Contractors, How NCRSS Works, and Why This Matters to You](relative/path/to/Figure2.png)
 
 ## **Methodolgy**
 
