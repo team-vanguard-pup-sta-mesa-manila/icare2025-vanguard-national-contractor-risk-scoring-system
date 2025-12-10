@@ -67,6 +67,7 @@ Function as independent monitors and transparency advocates. They can access con
 6. Business Associations and Private Sector Groups <br>
 Act as compliance partners and integrity advocates. They help contractors understand NCRSS requirements, adopt internal governance reforms to improve risk scores, and collaborate with government agencies to refine scoring metrics, ensuring fairness and ethical business practices.
 
+***
 
 ## **Technology Stack**
 
@@ -112,8 +113,6 @@ The first phase standardized raw data into measurable risk indicators. Categoric
 | Cost Overrun Ratio | (Actual Cost - Approved Budget for Contract (ABC)/ ABC) x 100 | Integrity (I): Flags financial integrity risk. |
 | Network Concentration | Count of Projects with Inter-Related Contractors/Total Projects | Network (N): The basis for the BO & Collusion Index. |
 
-<br>
-
 2. Systemic Risk Qualification <br> 
 The second phase applied descriptive statistics, correlation testing, anomaly detection, and top-group clustering to identify patterns indicative of systemic failure. The procedures included: <br>
   a. Testing relationships across age, condition, delay, and cost metrics. <br>
@@ -131,6 +130,8 @@ Quality checks included standard missing-value treatments, consistency verificat
 #### *Purposes of the Methodological Appraoch*
 
 This methodology was designed to produce an objective, evidence-driven foundation for evaluating procurement system performance and determining the operational design of the NCRS. It enabled a shift from descriptive reporting toward quantifiable, replicable indicators of quality, accountability, and transparency risks.
+
+***
 
 ## **Insights and Analyses**
 
@@ -155,6 +156,8 @@ By integrating previously siloed datasets—CPES, PhilGEPS, blacklisting records
 7. Policy and Implementation Insights <br>
 Evidence shows that infrastructure risk is systemic, concentrated among certain contractors and regions, and worsened by political influence and opaque ownership. Quantitative risk scoring and network analysis provide actionable tools for policymakers to identify high-risk contractors, prevent collusion, and enforce accountability. Linking operational performance with governance indicators allows for preventive, data-driven interventions, ensuring procurement aligns with public interest and strengthens transparency, ethical standards, and infrastructure resilience.
 
+***
+
 ## **Setup and Installation Guide**
 
 The National Contractor Risk Scoring System (NCRSS) is designed for immediate deployment with minimal technical requirements. Users can access and install the system via a single web-based link: [NCRSS](https://tinyurl.com/NCRSS-NCPAG)
@@ -167,4 +170,7 @@ The National Contractor Risk Scoring System (NCRSS) is designed for immediate de
 
 This setup procedure emphasizes simplicity and accessibility, ensuring that public procurement officers, contractors, and other relevant stakeholders can engage with the system efficiently and without technical barriers.
 
+***
+
 ## **Data Sources**
+Department of Public Works and Highways. (n.d.). About DPWH. https://www.dpwh.gov.ph/dpwh/content/about-dpwh 
